@@ -29,7 +29,7 @@ This **preliminary version** serves as a first step to make the dataset publicly
 
 If you make use of the data in your research, please cite the corresponding publication:
 
-*Arsioli, B., et al. (2024). Mapping the Cosmic Gamma-ray Horizon: The 1CGH Catalog of Fermi-LAT detections above 10 GeV. ******************[arXiv](https://arxiv.org/abs/XXXXX)******************[:XXXXX](https://arxiv.org/abs/XXXXX)*
+*Arsioli, B., et al. (2024). Mapping the Cosmic Gamma-ray Horizon: The 1CGH Catalog of Fermi-LAT detections above 10 GeV. ******************[arXiv](https://arxiv.org/abs/2411.18431)******************[:XXXXX](https://arxiv.org/abs/2411.18431)*
 
 ### **Data Use Policy**
 
