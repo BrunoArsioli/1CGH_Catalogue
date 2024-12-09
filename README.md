@@ -22,7 +22,7 @@ This **preliminary version** serves as a first step to make the dataset publicly
 
 - **1CGH\_Preliminary\_Catalogue.ascii**: The core data file containing the information about all sources in the 1CGH catalogue, including key metrics such as RA, Dec, TS value, redshift (`z`), and photon data.
 - **`README.md`**: This document, providing an overview of the repository, data descriptions, and intended use.
-- **`[TBD] Data Description.md`**: A detailed explanation of the columns in the catalogue, including data formats and instructions for interpretation.
+- **`Data Description.md`**: A detailed explanation of the columns in the 1CGH catalogue.
 - **`Figures`**: A folder containing key figures from the paper, such as the **cosmic gamma-ray horizon plots** showing the relationship between highest-energy photons and redshift.
 
 ### **Citation**
