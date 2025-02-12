@@ -8,9 +8,9 @@ This repository hosts the **preliminary version of the First Cosmic Gamma-ray Ho
 
 The **1CGH catalogue** aims to enhance our understanding of the transparency of the universe to gamma-rays and facilitate future studies of the extragalactic background light (EBL) by listing sources detected above 10 GeV. The 1CGH provides a comprehensive redshift characterization of these sources, offering improved reliability by tracking the quality of reported redshift values. It represents a comprehensive collection of blazars and blazar candidates, including:
 
-- **About 2900 gamma-ray sources** detected above 10 GeV.
-- **About 520 sources** experiencing moderate to severe gamma-ray attenuation in the largest energy bin, corresponding to an EBL optical depth of tau > 0.1.
-- **About 70 new gamma-ray detections**, previously unreported in Fermi-LAT catalogues.
+- **2791 gamma-ray sources** detected above 10 GeV.
+- **525 sources** experiencing moderate to severe gamma-ray attenuation in the largest energy bin, corresponding to an EBL optical depth of tau > 0.1.
+- **62 new gamma-ray detections**, previously unreported in Fermi-LAT catalogues.
 
 This **preliminary version** serves as a first step to make the dataset publicly accessible for the research community, providing an opportunity for initial exploration and further collaborations. The catalogue includes extensive metadata, such as:
 
