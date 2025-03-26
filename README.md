@@ -1,8 +1,8 @@
-# 1CGH Preliminary Catalogue Repository
+# 1CGH Catalogue Repository
 
-**Welcome to the 1CGH Preliminary Catalogue Repository!**
+**Welcome to the 1CGH Catalogue Repository!**
 
-This repository hosts the **preliminary version of the First Cosmic Gamma-ray Horizon (1CGH) catalogue**, a dataset created based on 16 years of Fermi-LAT observations, from August 2008 to August 2024. 
+This repository hosts the **First Cosmic Gamma-ray Horizon (1CGH) catalogue**, a dataset created based on 16 years of Fermi-LAT observations, from August 2008 to August 2024. 
 
 ### **About the 1CGH Preliminary Catalogue**
 
@@ -12,7 +12,7 @@ The **1CGH catalogue** aims to enhance our understanding of the transparency of 
 - **525 sources** experiencing moderate to severe gamma-ray attenuation in the largest energy bin, corresponding to an EBL optical depth of tau > 0.1.
 - **62 new gamma-ray detections**, previously unreported in Fermi-LAT catalogues.
 
-This **preliminary version** serves as a first step to make the dataset publicly accessible for the research community, providing an opportunity for initial exploration and further collaborations. The catalogue includes extensive metadata, such as:
+The catalogue includes extensive metadata, such as:
 
 - **Source names, coordinates (R.A. and Dec.)**, and **detection significance (TS values)**.
 - **Photon data** for the highest energy bins, including the **mean energy of the four highest-energy photons** associated with each source.
@@ -20,7 +20,7 @@ This **preliminary version** serves as a first step to make the dataset publicly
 
 ### **Content of the Repository**
 
-- **1CGH\_Preliminary\_Catalogue.ascii**: The core data file containing the information about all sources in the 1CGH catalogue, including key metrics such as RA, Dec, TS value, redshift (`z`), and photon data.
+- **1CGH\_Preliminary\_V2.0.fits**: The core data file containing the information about all sources in the 1CGH catalogue, including key metrics such as RA, Dec, TS value, redshift (`z`), and photon data.
 - **`README.md`**: This document, providing an overview of the repository, data descriptions, and intended use.
 - **`Data Description.md`**: A detailed explanation of the columns in the 1CGH catalogue.
 - **`Figures`**: A folder containing key figures from the paper, such as the **cosmic gamma-ray horizon plots** showing the relationship between highest-energy photons and redshift.
