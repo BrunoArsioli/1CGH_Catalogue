@@ -45,5 +45,7 @@ For questions, suggestions, or collaborations, please contact **Bruno Arsioli**
 
 ### **Disclaimer**
 
-This is a **preliminary version** of the 1CGH catalogue, and as such, updates and refinements are expected. The final version will be made available in the **VizieR** repository and include any necessary updates based on community feedback and ongoing data reviews.
+The 1CGH catalogue will be made available in the **VizieR** repository. 
+
+Necessary updates based on community feedback and ongoing data reviews will be describe in this living GitHub repositore.
 
