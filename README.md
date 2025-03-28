@@ -4,7 +4,7 @@
 
 This repository hosts the **First Cosmic Gamma-ray Horizon (1CGH) catalogue**, a dataset created based on 16 years of Fermi-LAT observations, from August 2008 to August 2024. 
 
-### **About the 1CGH Preliminary Catalogue**
+### **About the 1CGH Catalogue**
 
 The **1CGH catalogue** aims to enhance our understanding of the transparency of the universe to gamma-rays and facilitate future studies of the extragalactic background light (EBL) by listing sources detected above 10 GeV. The 1CGH provides a comprehensive redshift characterization of these sources, offering improved reliability by tracking the quality of reported redshift values. It represents a comprehensive collection of blazars and blazar candidates, including:
 
@@ -20,7 +20,7 @@ The catalogue includes extensive metadata, such as:
 
 ### **Content of the Repository**
 
-- **1CGH\_Preliminary\_V2.0.fits**: The core data file containing the information about all sources in the 1CGH catalogue, including key metrics such as RA, Dec, TS value, redshift (`z`), and photon data.
+- **First\_Cosmic\_GammaRay\_Horizon\_Catalogue\_1CGH_V1.fits**: The core data file containing the information about all sources in the 1CGH catalogue, including key metrics such as RA, Dec, TS value, redshift (`z`), and photon data.
 - **`README.md`**: This document, providing an overview of the repository, data descriptions, and intended use.
 - **`Data Description.md`**: A detailed explanation of the columns in the 1CGH catalogue.
 - **`Figures`**: A folder containing key figures from the paper, such as the **cosmic gamma-ray horizon plots** showing the relationship between highest-energy photons and redshift.
